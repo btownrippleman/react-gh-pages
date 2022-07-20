@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/react-gh-pages/static/js/main.b929487e.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.b929487e.js.map": "/react-gh-pages/static/js/main.b929487e.js.map"
+    "main.js": "/random/static/js/main.b929487e.js",
+    "index.html": "/random/index.html",
+    "main.b929487e.js.map": "/random/static/js/main.b929487e.js.map"
   },
   "entrypoints": [
     "static/js/main.b929487e.js"
